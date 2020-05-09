@@ -1,0 +1,57 @@
+{
+	"msas_dir" : "MSAs",
+    "model_one" : {
+        "outputdir" : "datasets",
+        "labels": {
+            "Cytoplasm": 1,
+            "Nucleus": 2,
+            "Secreted": 3,
+            "Cell membrane": 4,
+            "Endoplasmic reticulum membrane": 5,
+            "Plastid": 6,
+            "Mitochondrion": 7,
+            "Other": 8
+        }
+    },
+    "model_five" : {
+        "outputdir" : "datasets_alt_model_five",
+        "labels": {
+      	    "Cytoplasm": 1,
+       	    "Nucleus": 2,
+			"Secreted": 3,
+            "Cell membrane": 3,
+            "Endoplasmic reticulum membrane": 3,
+            "Plastid": 4,
+            "Mitochondrion": 5
+        }
+    },
+    "an_fung" : {
+        "outputdir" : "an_fung",
+        "labels": {
+      	    "Cytoplasm": 1,
+       	    "Nucleus": 2,
+			"Secreted": 3,
+            "Cell membrane": 4,
+            "Endoplasmic reticulum membrane": 5,
+            "Mitochondrion": 6
+        }
+    },
+    "all" : {
+        "outputdir" : "all",
+        "labels": {
+      	    "Cytoplasm": 1,
+       	    "Nucleus": 2,
+			"Secreted": 3,
+            "Cell membrane": 4,
+            "Endoplasmic reticulum membrane": 5,
+            "Plastid": 6,
+            "Mitochondrion": 7
+        }
+    },
+    "test" : {
+        "outputdir" : "test",
+        "labels": {
+      	    "Cytoplasm": 1
+        }
+    }                            
+}
