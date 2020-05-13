@@ -3,7 +3,11 @@ Alessandro Baccin, 16724489, alessandro.baccin@ucdconnect.ie
 # Protein-Sequence-Preprocessing
 This repository contains scripts that I needed in order carry out the preprocessing of my datasets for my 4th year FYP project.
 
-## How does this script work?
+Note: metrics.py and weights_count.py are accessory scripts used to: 
+    - calculate the metrics for each .predictions files.
+    - count the number of weights in the generated .model files.
+
+## How does prepro.py work?
 
 This script provides 6 different modes of execution: 
 
