@@ -3,7 +3,7 @@ Alessandro Baccin, 16724489, alessandro.baccin@ucdconnect.ie
 # Protein-Sequence-Preprocessing
 This repository contains scripts that I needed in order carry out the preprocessing of my datasets for my 4th year FYP project.
 
-Note: metrics.py and weights_count.py are accessory scripts used to: 
+Note: metrics.ipynb and weights_count.py are used to: 
     - calculate the metrics for each .predictions files.
     - count the number of weights in the generated .model files.
 
@@ -40,7 +40,7 @@ Example of the settings.json file.
 
 ```json
 {
-	"msas_dir" : "MSAs",
+    "msas_dir" : "MSAs",
     "model_one" : {
         "outputdir" : "datasets",
         "labels": {
