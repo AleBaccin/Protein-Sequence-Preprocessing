@@ -5,7 +5,7 @@ import numpy as np
 import os
 from tqdm import tqdm
 
-names = ['7-class-weights-1l', '7-class-weights-2l', '7-class-weights-3l', '7-class-weights-4l', '7-class-weights-3sl', '6-class-weights-2l', '5-class-weights-2l', '8-class-weights-2l']
+names = ['7-class-weights-1l', '7-class-weights-2l', '7-class-weights-2l_20_15', '7-class-weights-3l', '7-class_weights_3l_20', '7-class-weights-4l', '7-class-weights-3sl', '6-class-weights-2l', '5-class-weights-2l', '5-class-weights-3l',  '8-class-weights-2l']
 results = open(os.path.join('weights', 'results.txt'),'w+')
 
 for name in tqdm(names, total= len(names)):

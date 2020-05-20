@@ -1,8 +1,11 @@
 7-class-weights-1l # of weights: 1747
 7-class-weights-2l # of weights: 2967
+7-class-weights-2l_20_15 # of weights: 6772
 7-class-weights-3l # of weights: 4187
+7-class_weights_3l_20 # of weights: 12947
 7-class-weights-4l # of weights: 5407
 7-class-weights-3sl # of weights: 4357
 6-class-weights-2l # of weights: 2956
 5-class-weights-2l # of weights: 2945
+5-class-weights-3l # of weights: 4165
 8-class-weights-2l # of weights: 2978
