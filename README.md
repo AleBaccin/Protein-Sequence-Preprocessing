@@ -7,6 +7,12 @@ Note: metrics.ipynb and weights_count.py are used to:
     - calculate the metrics for each .predictions files.
     - count the number of weights in the generated .model files.
 
+⚠️ IMPORTANT: Due to the size of the produced data it was not possible to have it uploaded in GitHub. Here are the Google Drive links:
+    - Preprocessing: https://drive.google.com/open?id=1bfCnXEeWZWlbAKF3fFx0tkE62LvKo0Nu
+    - Trained models: https://drive.google.com/open?id=1fXEQwor4Jv8JBR8LkCB5GI4QAPyxU0dA
+    
+Some of the attempted trained models are residing on the tanalla.ucd.ie machine.
+
 ## How does prepro.py work?
 
 This script provides 6 different modes of execution: 
