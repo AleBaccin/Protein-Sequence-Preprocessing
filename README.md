@@ -13,7 +13,7 @@ Note: metrics.ipynb and weights_count.py are used to:
     
     - Trained models: https://drive.google.com/open?id=1fXEQwor4Jv8JBR8LkCB5GI4QAPyxU0dA
     
-Some of the attempted trained models are residing on the tanalla.ucd.ie machine.
+All of this data is also present on the tanalla.ucd.ie machine. The files are compressed, this because the training was performed on a different machine and the files were later moved to tanalla.
 
 ## How does prepro.py work?
 
