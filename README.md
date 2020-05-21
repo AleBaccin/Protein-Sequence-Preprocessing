@@ -4,12 +4,12 @@ Alessandro Baccin, 16724489, alessandro.baccin@ucdconnect.ie
 This repository contains scripts that I needed in order carry out the preprocessing of my datasets for my 4th year FYP project.
 
 Note: metrics.ipynb and weights_count.py are used to: 
-    > calculate the metrics for each .predictions files.
-    > count the number of weights in the generated .model files.
+1. calculate the metrics for each .predictions files.
+2. count the number of weights in the generated .model files.
 
 ⚠️ IMPORTANT: Due to the size of the produced data it was not possible to have it uploaded in GitHub. Here are the Google Drive links:
-    > Preprocessing: https://drive.google.com/open?id=1bfCnXEeWZWlbAKF3fFx0tkE62LvKo0Nu
-    > Trained models: https://drive.google.com/open?id=1fXEQwor4Jv8JBR8LkCB5GI4QAPyxU0dA
+1. Preprocessing: https://drive.google.com/open?id=1bfCnXEeWZWlbAKF3fFx0tkE62LvKo0Nu
+2. Trained models: https://drive.google.com/open?id=1fXEQwor4Jv8JBR8LkCB5GI4QAPyxU0dA
     
 All of this data is also present on the tanalla.ucd.ie machine. The files are compressed, this because the training was performed on a different machine and the files were later moved to tanalla.
 
